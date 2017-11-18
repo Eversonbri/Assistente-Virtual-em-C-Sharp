@@ -1,0 +1,6 @@
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\Debug\Jorg2.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\Debug\Jorg2.pdb
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\Debug\Microsoft.Speech.dll
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\Debug\Jorg2.csprojResolveAssemblyReference.cache
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\Debug\Jorg2.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\Debug\Jorg2.pdb

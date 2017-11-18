@@ -1,0 +1,5 @@
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x64\Debug\Jorg2.exe
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x64\Debug\Jorg2.pdb
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x64\Debug\Jorg2.exe
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x64\Debug\Jorg2.pdb

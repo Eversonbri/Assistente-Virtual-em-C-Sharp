@@ -1,0 +1,11 @@
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\Jorg2.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\Jorg2.pdb
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\Microsoft.Speech.dll
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x86\Debug\Jorg2.csprojResolveAssemblyReference.cache
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x86\Debug\Jorg2.exe
+c:\users\laércio.home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x86\Debug\Jorg2.pdb
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\Jorg2.exe.manifest
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\Jorg2.application
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x86\Debug\Jorg2.exe.manifest
+C:\Users\Laércio.Home\documents\visual studio 2017\Projects\Jorg2\Jorg2\obj\x86\Debug\Jorg2.application
+C:\Users\Laércio.Home\Documents\Visual Studio 2017\Projects\Jorg2\Jorg2\bin\x86\Debug\AIMLbot.dll

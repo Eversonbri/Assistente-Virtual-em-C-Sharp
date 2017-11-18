@@ -1,0 +1,24 @@
+<aiml>
+<category>
+<pattern>Jogos dos Tronos</pattern>
+<template>Essa sim e uma serie muito boa</template>
+</category>
+<category>
+<pattern>quem e Maisie Williams</pattern>
+<template>Voce se refere a Aria de Jogos dos Tronos</template>
+</category>
+<category>
+<pattern>quem e Sophie Turner</pattern>
+<template>e uma sonsa</template>
+</category>
+<category>
+<pattern>qual e a sua cor preferida</pattern>
+<template>
+<random>
+<li>Azul</li>
+<li>e Azul</li>
+<li>e a cor Azul</li>
+</random>
+</template>
+</category>
+</aiml>
